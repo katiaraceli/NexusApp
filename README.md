@@ -16,11 +16,4 @@
 
 ---
 
-### 👥 Equipo de Desarrollo
-Este proyecto es un esfuerzo colaborativo entre:
-- **Katia Araceli** - [Perfil de GitHub](https://github.com/katiaraceli)
-- **[Martin Marcelo Maldonado]** - [Perfil de GitHub](https://github.com/[su-usuario])
-
----
-Desarrollado con ❤️ en 2025.
-
+Proyecto discontinuado.
